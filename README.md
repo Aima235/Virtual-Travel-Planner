@@ -32,7 +32,8 @@ It helps users choose destinations, plan routes, estimate costs, and generate it
 
 ## 📸 GUI Preview
 
-*(Add a screenshot of your running app here — e.g., `assets/screenshot.png`)*
+<img width="1071" height="630" alt="image" src="https://github.com/user-attachments/assets/63f27138-dba1-43ed-8de0-650aca3dee31" />
+
 
 ---
 
